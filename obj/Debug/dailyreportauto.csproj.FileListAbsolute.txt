@@ -1,0 +1,13 @@
+C:\Users\panupongp\Desktop\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\bin\Debug\dailyreportauto.exe.config
+C:\Users\panupongp\Desktop\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\bin\Debug\dailyreportauto.exe
+C:\Users\panupongp\Desktop\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\bin\Debug\dailyreportauto.pdb
+C:\Users\panupongp\Desktop\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\panupongp\Desktop\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\obj\Debug\dailyreportauto.exe
+C:\Users\panupongp\Desktop\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\obj\Debug\dailyreportauto.pdb
+D:\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\bin\Debug\dailyreportauto.exe.config
+D:\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\obj\Debug\dailyreportauto.exe
+D:\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\obj\Debug\dailyreportauto.pdb
+D:\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\bin\Debug\dailyreportauto.exe
+D:\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\bin\Debug\dailyreportauto.pdb
+D:\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Bas Project\1_RABBIT Project\dailyreportauto\dailyreportauto\obj\Debug\dailyreportauto.csprojResolveAssemblyReference.cache
